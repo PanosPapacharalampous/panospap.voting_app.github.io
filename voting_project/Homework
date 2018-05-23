@@ -1,0 +1,10 @@
+17/01
+Restyle Voting app
++ Βάλε ένα logo(image) μέσα στο λινκ "VOTING BUDDY" (μαζί με το κείμενο)
++ Βάλε χρώμα στο menu bar (background-color/image & αν χρειαστεί και text color)
++ Να φτιάξεις κανόνα/ες CSS έτσι ώστε κάθε 4η κατηγορία να έχει χρυσό category-heading, και να έχει χρυσό glow (box-shadow λέγεται στο CSS)
+- Δες στη σελίδα του bootstrap τα styles για τα buttons (και αντίστοιχα input type="submit") και φτιάξε
+    πιο όμορφα τα 'buttons' <input type="button"> που εμφανίζονται όταν δεν έχει ψηφίσει ο loggαρισμένος χρήστης
++ Βρες και φόρτωσε άλλο ένα font, το οποίο θα το χρησιμοποιήσεις είτε στο Menu πάνω, είτε στο stats panel κάτω (ή και στα 2)
++ Κάνε ότι styling θες (με τους κατάλληλους κανόνες CSS) στο τελευταίο panel που εμφανίζει τα stats του χρήστη
++to panel me ta votes-stats na einai to miso kai stixismeno stin mesi 
